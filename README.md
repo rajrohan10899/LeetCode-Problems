@@ -17,6 +17,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
@@ -79,4 +81,8 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 <!---LeetCode Topics End-->
