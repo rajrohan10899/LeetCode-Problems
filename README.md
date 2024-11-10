@@ -53,6 +53,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0048-rotate-image) |
 ## String
 |  |
