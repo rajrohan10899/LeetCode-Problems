@@ -14,6 +14,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1940-maximum-xor-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -29,6 +30,7 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0015-3sum) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
@@ -85,4 +87,8 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+## Binary Search
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->
