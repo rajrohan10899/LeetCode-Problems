@@ -17,6 +17,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Two Pointers
@@ -26,11 +27,13 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0015-3sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
@@ -91,4 +94,5 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
