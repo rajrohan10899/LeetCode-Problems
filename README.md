@@ -24,6 +24,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1755-defuse-the-bomb](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -39,6 +40,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [1972-rotating-the-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -72,6 +74,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [1972-rotating-the-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
