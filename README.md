@@ -32,6 +32,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -81,6 +82,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Math
 |  |
 | ------- |
@@ -149,8 +151,18 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3189-find-champion-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
