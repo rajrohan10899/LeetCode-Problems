@@ -21,6 +21,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -64,6 +65,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -115,6 +117,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
