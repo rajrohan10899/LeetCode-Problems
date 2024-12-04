@@ -54,6 +54,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3451-string-compression-iii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
