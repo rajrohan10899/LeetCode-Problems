@@ -90,6 +90,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Union Find
 |  |
 | ------- |
@@ -122,6 +123,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
@@ -140,6 +142,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -162,6 +165,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1755-defuse-the-bomb](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Binary Search
 |  |
@@ -182,6 +186,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
