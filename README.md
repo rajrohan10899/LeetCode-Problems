@@ -51,6 +51,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3427-special-array-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +124,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -224,6 +227,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
