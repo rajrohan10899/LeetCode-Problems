@@ -219,6 +219,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0787-sliding-puzzle](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -271,4 +272,16 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
