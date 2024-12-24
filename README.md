@@ -132,6 +132,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0812-rotate-string) |
@@ -287,4 +288,8 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
