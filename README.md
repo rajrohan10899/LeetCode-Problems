@@ -28,6 +28,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1063-best-sightseeing-pair](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -248,6 +249,7 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 ## Queue
 |  |
