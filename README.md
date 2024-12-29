@@ -34,6 +34,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -140,6 +141,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -252,6 +254,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 ## Queue
 |  |
