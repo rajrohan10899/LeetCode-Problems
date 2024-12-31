@@ -28,6 +28,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1063-best-sightseeing-pair](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -253,6 +254,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
