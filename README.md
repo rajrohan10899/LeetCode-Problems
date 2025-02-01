@@ -65,6 +65,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3427-special-array-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
