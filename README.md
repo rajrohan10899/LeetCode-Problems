@@ -19,6 +19,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +74,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1972-rotating-the-box) |
@@ -244,6 +246,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
