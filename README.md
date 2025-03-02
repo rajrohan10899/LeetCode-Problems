@@ -63,6 +63,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2868-continuous-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -85,6 +86,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
@@ -134,6 +136,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Union Find
 |  |
