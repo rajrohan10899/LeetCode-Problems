@@ -1,19 +1,22 @@
 class Solution {
 public:
-// Optimal Approach -----> Time Complexity : O(n) ------>  Space Complexity : O(1).
-
     int numberOfSubstrings(string s) {
-       int lastSeen[3] = {-1, -1, -1};
-       int cnt = 0;
-       for(int i = 0; i < s.length(); i++) {
-            // Update the last seen index for the current character
-            lastSeen[s[i] - 'a'] = i;
-            // Check if all three characters have been seen
-            if(lastSeen[0] != -1 && lastSeen[1] != -1 && lastSeen[2] != -1) {
-                // Calculate the number of valid substrings ending at index i
-                cnt  += (1 + min({lastSeen[0], lastSeen[1], lastSeen[2]}));
+        int count = 0;
+        vector<int> vec(3, 0); // 0 -> a, 1 -> b, 2 -> c
+        int i = 0, j = 0;
+
+        while(j < s.length()) {
+            char ch = s[j];
+            vec[ch-'a']++;
+            
+            while(vec[0] > 0 && vec[1] > 0 && vec[2] > 0) {
+                count += (s.length() - j);
+
+                vec[s[i]-'a']--;
+                i++;
             }
-       }
-       return cnt;
+            j++;
+        }
+        return count;
     }
 };
