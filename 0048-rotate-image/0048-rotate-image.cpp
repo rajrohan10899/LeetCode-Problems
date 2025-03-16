@@ -1,10 +1,12 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        vector<vector<int>>resMax(matrix.size(), vector<int>(matrix.size(), 0));
-        for(int i = 0; i < matrix.size(); i++) {
-            for(int j = 0; j < matrix.size(); j++) {
-                resMax[j][matrix.size()-1-i] = matrix[i][j];
+
+        int n = matrix.size();
+        vector<vector<int>>resMax(n, vector<int>(n, 0));
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                resMax[j][n-1-i] = matrix[i][j];
             }
         }
         matrix = resMax;
