@@ -5,7 +5,7 @@ public:
         for(int i = 0; i < nums.size(); i++) {
             mpp[nums[i]]++;
         }
-        for(auto it : mpp) {
+        for(auto &it : mpp) {
             if(it.second % 2 != 0) {
                 return false;
             }
