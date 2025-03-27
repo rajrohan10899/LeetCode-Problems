@@ -84,6 +84,7 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -411,6 +412,7 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
