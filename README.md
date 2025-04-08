@@ -81,6 +81,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Union Find
 |  |
 | ------- |
