@@ -65,6 +65,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -156,6 +157,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -278,6 +280,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [2478-longest-nice-subarray](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
