@@ -34,6 +34,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1063-best-sightseeing-pair](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1293-three-consecutive-odds](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
