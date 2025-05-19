@@ -1,37 +1,34 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
-        int start = 0;
-        int end = nums.size() - 1;
+        int low = 0, high = nums.size() - 1;
 
-        while (start <= end) { 
-            int mid = start + (end - start) / 2;
-            
-            if (nums[mid] == target)
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            // Is the mid equals to target:
+            if (nums[mid] == target) {
                 return true;
-
-            //For dupilcates we only have to update left and right pointer.
-            if ((nums[start] == nums[mid]) && (nums[end] == nums[mid])) {
-                start++;
-                end--;
-            } 
-            else if (nums[start] <= nums[mid]) {
-
-                // target is in first  half
-                if ((nums[start] <= target) && (nums[mid] > target)) {
-                    end = mid - 1;
-                } 
-                else {
-                    start = mid + 1;
+            }
+            if(nums[low] == nums[mid] && nums[mid] == nums[high]) {
+                low++;
+                high--;
+                continue;
+            }
+            // check is the left portion of the array is sorted:
+            if (nums[low] <= nums[mid]) {
+                // Is the target lies in left portion ?.
+                if (nums[low] <= target && target <= nums[mid]) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
                 }
-            } 
-            else { 
-                // target is in second half
-                if ((nums[end] >= target) && (nums[mid] < target)) {
-                    start = mid + 1;
-                } 
-                else {
-                    end = mid - 1;
+            } else {
+                // check is the right portion of the array is sorted:
+                if (nums[mid] <= target && target <= nums[high]) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
                 }
             }
         }
