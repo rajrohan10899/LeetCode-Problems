@@ -21,7 +21,6 @@ public:
                 high = mid - 1;
             }
         }
-
         // Return the smallest value found
         return res;
     }
