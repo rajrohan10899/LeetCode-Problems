@@ -1,33 +1,28 @@
 class MinStack {
 public:
-    vector<int>vec;
+    /* Stack pair based approach: TC = O(1) and S.C = O(2*N) because storing two element in st*/
+    stack<pair<int, int>>st;
+
     MinStack() {}
+    
     void push(int val) {
-        vec.push_back(val);
+        int currMin = st.empty() ? val : min(val, st.top().second);
+        st.push({val, currMin});
     }
     
     void pop() {
-        if(vec.size()==0)
-            return;
-        vec.pop_back();
+        if(!st.empty()) 
+            st.pop();
     }
     
     int top() {
-        if(vec.size()==0)
-            return -1;
-        return vec.back();
+        if(!st.empty()) 
+            return st.top().first;
+        return -1;
     }
     
     int getMin() {
-        if(vec.size()==0)
-            return -1;
-        int mini = vec[0];
-        for(int i = 0; i < vec.size(); i++) {
-            if(vec[i] < mini) {
-                mini = vec[i];
-            }
-        }
-        return mini;
+       return st.top().second;
     }
 };
 
