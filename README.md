@@ -413,6 +413,7 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -474,4 +475,8 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
