@@ -11,18 +11,18 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        vector<int> data; 
-
-        // Store krliyye element ko in vector data;
-        for(ListNode *curr = head; curr != NULL; curr = curr->next) {
-            data.push_back(curr->val);
+        ListNode* temp = head;
+        stack<int>st;
+        while(temp != NULL) {
+            st.push(temp->val);
+            temp = temp->next;
         }
-
-        //Ressign the value in vector:
-        for(ListNode *curr = head; curr != NULL; curr = curr->next) {
-            curr->val = data.back();
-            data.pop_back();
+        temp = head;
+        while(temp != NULL) {
+            temp->val = st.top();
+            st.pop();
+        temp = temp->next;
         }
-        return head; 
+        return head;
     }
 };
