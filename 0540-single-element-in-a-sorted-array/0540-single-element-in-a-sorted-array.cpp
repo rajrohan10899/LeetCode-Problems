@@ -1,23 +1,15 @@
-// class Solution {
-// public:
-//     int singleNonDuplicate(vector<int>& nums) {
-//         for(int i = 0; i < nums.size()-1; i+=2) {
-//             if(nums[i] == nums[i+1]) 
-//                 continue;
-//             else 
-//                 return nums[i];
-//         }
-//         return nums[nums.size()-1];
-//     }
-// };
-
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int res = 0;
-        for(int i = 0; i < nums.size(); i++) {
-            res ^= nums[i];
+        unordered_map<int, int>mpp;
+        for(auto num : nums) {
+            mpp[num]++;
         }
-        return res;
+        for(auto &it : mpp) {
+            if(it.second <= 1) {
+                return it.first;
+            }
+        }
+        return -1;
     }
 };
