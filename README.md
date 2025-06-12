@@ -92,6 +92,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
