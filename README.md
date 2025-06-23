@@ -45,6 +45,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
@@ -340,6 +341,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
