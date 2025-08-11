@@ -31,6 +31,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
@@ -320,6 +321,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
