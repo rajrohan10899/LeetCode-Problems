@@ -179,6 +179,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -246,6 +247,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -290,6 +292,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -329,6 +332,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
