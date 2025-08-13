@@ -1,32 +1,27 @@
 class Solution {
 public:
-    
-    bool isGood(string sub) {
-        for(int i = 0; i < sub.size(); i++) {
-            for(int j = i + 1; j < sub.size(); j++) {
-                if(sub[i] == sub[j]) {
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
     int countGoodSubstrings(string s) {
 
-        if (s.size() < 3) 
-            return 0;
+        int i = 0, j = 0, countGdSubstr = 0;
+        unordered_map<char, int> mpp;
 
-        int count = 0;
-        // int k = 3;
-        for(int i = 0; i <= s.length() - 3; i++) {
-            string sub = "";
-            for(int j = i; j < i + 3; j++) {
-                sub += s[j];
-            }
-            if(isGood(sub)) {
-                count++;
+        while (j < s.length()) {
+            mpp[s[j]]++;
+
+            if (j - i + 1 < 3) {
+                j++;
+            } else {
+                if (mpp.size() == 3) {
+                    countGdSubstr++;
+                }
+                mpp[s[i]]--;
+                if (mpp[s[i]] == 0) {
+                    mpp.erase(s[i]);
+                }
+                i++;
+                j++;
             }
         }
-        return count;
+        return countGdSubstr;
     }
 };
