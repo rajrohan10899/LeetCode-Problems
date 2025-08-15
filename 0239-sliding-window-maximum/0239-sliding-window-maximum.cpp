@@ -1,23 +1,20 @@
+//Approach-2 (Using max-heap (priority_queue)) (worst case :O(n*log(n)) when elements are in ascending order)
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-
-        deque<int> deq;
+        priority_queue<pair<int, int>> pq;
         vector<int> res;
-        for(int i = 0; i < nums.size(); i++) {
 
-            //remove the max elements from front which are out of window size
-            while(!deq.empty() && deq.front() <= i-k) {
-                deq.pop_front();
-            }
+        for(int i = 0; i < nums.size(); i++) {
             
-            while(!deq.empty() && nums[i] > nums[deq.back()]) {
-                deq.pop_back();
+            //remove the max elements which are out of window size
+            while(!pq.empty() && pq.top().second <= i-k) {
+                pq.pop();
             }
-            
-            deq.push_back(i);
-            if(i >= k-1) { //Only when the window size first gets equal or greater than k
-                res.push_back(nums[deq.front()]); 
+            pq.push({nums[i], i}); //we will always find the max element at top
+
+            if(i >= k-1) {
+                res.push_back(pq.top().first);
             }
         }
         return res;
