@@ -27,6 +27,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -322,6 +323,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -394,6 +396,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -423,6 +426,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2868-continuous-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
@@ -432,6 +436,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Greedy
 |  |
