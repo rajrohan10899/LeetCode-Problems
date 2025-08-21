@@ -1,21 +1,26 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int i = 0, j = 0, maxLen = 0, maxfreqCh = 0;
-        int seen[26] = {0}; // Frequency array for characters 'A' to 'Z'
 
-        while (j < s.length()) {
-            seen[s[j] - 'A']++; // Increment frequency of current character
-            maxfreqCh = max(maxfreqCh, seen[s[j] - 'A']); // Update max frequency
-            
-            // Trim down the window if it becomes invalid
-            while ((j - i + 1) - maxfreqCh > k) {
-                seen[s[i] - 'A']--; // Decrease frequency of leftmost character
-                i++;                // Move the left pointer
+        int i = 0, j = 0, maxLen = 0, maxCharFreq = 0, hashArr[26] = {0};
+
+        while(j < s.length()) {
+            hashArr[s[j] - 'A']++;
+
+            maxCharFreq = max(maxCharFreq, hashArr[s[j] - 'A']);
+            int replacementReq = (j-i+1) - maxCharFreq;
+
+            if(replacementReq <= k) {
+                maxLen = max(maxLen, j-i+1);
             }
-            // Update maxLen with the current valid window size
-            maxLen = max(maxLen, j - i + 1);
-            j++; // Move the right pointer
+            else if(replacementReq > k) {
+                while((j-i+1) - maxCharFreq > k) {
+                    hashArr[s[i] - 'A']--;
+                    i++;
+                }
+                maxLen = max(maxLen, j-i+1);   
+            }
+            j++;
         }
         return maxLen;
     }
