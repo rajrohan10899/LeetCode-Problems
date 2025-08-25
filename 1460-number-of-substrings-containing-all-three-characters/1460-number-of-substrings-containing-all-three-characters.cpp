@@ -1,22 +1,27 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int count = 0;
-        vector<int> vec(3, 0); // 0 -> a, 1 -> b, 2 -> c
-        int i = 0, j = 0;
-
+        int i = 0, j = 0, countSubstr = 0;
+        // unordered_map<char, int>mpp;
+        int hashArr[3] = {0};
         while(j < s.length()) {
-            char ch = s[j];
-            vec[ch-'a']++;
-            
-            while(vec[0] > 0 && vec[1] > 0 && vec[2] > 0) {
-                count += (s.length() - j);
+            // mpp[s[j]]++;
+            hashArr[s[j] - 'a']++;
 
-                vec[s[i]-'a']--;
+            while(hashArr[0] > 0 && hashArr[1] > 0 && hashArr[2] > 0) {
+            // while(mpp['a'] > 0 && mpp['b'] > 0 && mpp['c'] > 0) {
+                // yaha trick hai:
+                // Agar [i...j] ek valid substring hai (contains a,b,c)
+                // to j se leke end tak jitne bhi substrings bante hain 
+                // wo sab valid hain.
+                countSubstr += (s.length() - j);
+                
+                hashArr[s[i] - 'a']--;
+                // mpp[s[i]]--;
                 i++;
             }
             j++;
         }
-        return count;
+        return countSubstr;
     }
 };
