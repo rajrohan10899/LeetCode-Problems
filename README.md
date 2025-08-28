@@ -224,6 +224,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -422,6 +423,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1013-fibonacci-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -516,6 +518,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -524,4 +527,8 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0155-min-stack) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
