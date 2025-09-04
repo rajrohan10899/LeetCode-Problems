@@ -25,6 +25,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -136,6 +137,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -171,6 +173,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -296,6 +299,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -391,6 +395,7 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Breadth-First Search
 |  |
 | ------- |
