@@ -1,25 +1,40 @@
 class MyHashMap {
-    vector<int> vec;
-    int size;
+    //Optimal Solution
+    vector<list<pair<int, int>>> buckets;
+    int size = 10000;
 
 public:
-    MyHashMap() {
-        size = 1e6 + 1;
-        vec.resize(size);
+    MyHashMap() { buckets.resize(size); }
 
-        fill(vec.begin(), vec.end(), -1);
-    }
-
-    void put(int key, int value) {
-        vec[key] = value;
+    void put(int key, int value) { 
+        int index = key % size;
+        for (auto& it : buckets[index]) {
+            if (it.first == key) {
+                it.second = value;
+                return;
+            }
+        }
+        buckets[index].emplace_back(key, value);
     }
 
     int get(int key) {
-        return vec[key];
+        int index = key % size;
+        for (auto& it : buckets[index]) {
+            if (it.first == key) {
+                return it.second;
+            }
+        }
+        return -1;
     }
 
     void remove(int key) {
-        vec[key] = -1;
+        int index = key % size;
+        for(auto it = buckets[index].begin(); it != buckets[index].end(); it++) {
+            if(it->first == key) {
+                buckets[index].erase(it);
+                return;
+            }
+        }
     }
 };
 
