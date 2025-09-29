@@ -39,6 +39,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -182,6 +183,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -513,6 +515,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
@@ -522,6 +525,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -539,6 +543,7 @@ About Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0816-design-hashset](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0817-design-hashmap) |
 ## Memoization
 |  |
