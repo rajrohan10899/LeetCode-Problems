@@ -17,6 +17,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0075-sort-colors) |
@@ -236,6 +237,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
