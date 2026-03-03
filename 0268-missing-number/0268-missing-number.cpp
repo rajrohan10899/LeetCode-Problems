@@ -1,19 +1,15 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        
+        int expectedSum = (nums.size() * (nums.size() + 1)) / 2;
 
-        for(int i = 0; i <= nums.size(); i++) { 
-            bool found = false;
-            for(int j = 0; j < nums.size(); j++) {
-                if(nums[j] == i) {
-                    found = true;
-                    break;
-                }
-            }
-            if(!found) {
-                return i;
-            }
+        int actualSum = 0;
+        for(int i = 0; i < nums.size(); i++) {
+            actualSum += nums[i];
         }
-        return -1;
+        int missingNumber = expectedSum - actualSum;
+
+        return missingNumber;
     }
 };
