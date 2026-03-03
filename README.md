@@ -31,6 +31,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -144,6 +145,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -182,6 +184,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -238,6 +241,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -296,6 +300,7 @@ About Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -379,6 +384,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
