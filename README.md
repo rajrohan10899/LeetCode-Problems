@@ -46,6 +46,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -126,6 +127,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -148,6 +150,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
