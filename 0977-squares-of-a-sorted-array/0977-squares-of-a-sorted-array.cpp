@@ -2,14 +2,24 @@ class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
         
-        vector<int>res;
+        vector<int>res(nums.size());
 
-        for(int i = 0; i < nums.size(); i++) {
-            res.push_back(nums[i] * nums[i]);
+        int left = 0, right = nums.size()-1, idxPos = nums.size()-1;
+
+        while(left <= right) {
+
+            if(abs(nums[left]) > abs(nums[right])) {
+                res[idxPos] = nums[left] * nums[left];
+                left++;
+            }
+            else {
+                res[idxPos] = nums[right] * nums[right];
+                right--;
+            }
+            idxPos--;
         }
-
-        sort(res.begin(), res.end());
-
         return res;
     }
 };
+
+// Time Complexity: O(N) --> Space Complexity: O(N) because we are return an array of size N.
