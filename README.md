@@ -46,6 +46,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0817-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -132,6 +133,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0881-boats-to-save-people](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -157,6 +159,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -488,6 +491,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
