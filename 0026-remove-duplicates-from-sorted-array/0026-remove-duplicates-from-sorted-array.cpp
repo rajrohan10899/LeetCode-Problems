@@ -1,13 +1,18 @@
 class Solution {
 public:
+    //Time complexity: O(N).
+    //Space Complexity: O(1).
     int removeDuplicates(vector<int>& nums) {
-        int i = 0; // two pointer approach i, and j is looping the array.
-        for(int j = 1; j < nums.size(); j++) {
-            if(nums[j] != nums[i]) {
-                nums[i+1] = nums[j];
+        int i = 0, j = 1;
+        while(j < nums.size()) { // O(N)
+            if(nums[i] != nums[j]) {
                 i++;
+                nums[i] = nums[j];
+            }
+            else {
+                j++;
             }
         }
-        return (i+1);
+        return i+1;
     }
 };
