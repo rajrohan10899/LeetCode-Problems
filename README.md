@@ -139,6 +139,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -285,6 +286,7 @@ About Collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1768-merge-strings-alternately](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajrohan10899/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
