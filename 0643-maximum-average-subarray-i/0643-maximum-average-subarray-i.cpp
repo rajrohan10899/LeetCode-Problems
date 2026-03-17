@@ -19,3 +19,11 @@ public:
         return maxSumAvg / (double)k;
     }
 };
+
+//Brute :
+
+//take sum of the first valid window 
+// and store it into some variable
+//then do calculation for the next window 
+//and update maxSumAvg after evey window
+//lastly return maxAvg/(double) k
