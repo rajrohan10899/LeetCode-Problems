@@ -11,7 +11,8 @@ public:
     vector<int> findAnagrams(string s, string p) {
         vector<int> counter(26, 0);
         for(int i = 0; i < p.length(); i++) {
-            counter[p[i] - 'a']++;
+            char ch = p[i];
+            counter[ch - 'a']++; // same as solu but here i extract the ch from p.
         }
         int i = 0, j = 0;
         vector<int> res;
