@@ -1,32 +1,44 @@
 class Solution {
 public:
-    bool allZero(vector<int> &counter) {
-        for(int &i : counter) {
-            if(i != 0) {
+    // Step: 3
+    bool allZero(vector<int>& storePchar) {
+        for (int& i : storePchar) {
+            if (i != 0) {
                 return false;
             }
         }
         return true;
     }
     vector<int> findAnagrams(string s, string p) {
-        vector<int> counter(26, 0);
-        for(int i = 0; i < p.length(); i++) {
+
+        // Step 1:
+        vector<int> storePchar(26, 0);
+        for (int i = 0; i < p.length(); i++) {
             char ch = p[i];
-            counter[ch - 'a']++; // same as solu but here i extract the ch from p.
+            storePchar[ch - 'a']++;
         }
+
+        // Step: 2
         int i = 0, j = 0;
         vector<int> res;
-        while(j < s.length()) {
-            counter[s[j] - 'a']--;
+        while (j < s.length()) {
+            // calculation
+            storePchar[s[j] - 'a']--;
 
-            if(j-i+1 == p.length()) {
-                if(allZero(counter)) {
+            // check for window size
+            if (j - i + 1 < p.length()) {
+                j++;
+            }
+
+            // If Reached Window size
+            else if (j - i + 1 == p.length()) {
+
+                if (allZero(storePchar)) {
                     res.push_back(i);
                 }
-                counter[s[i] - 'a']++;
-                i++;
+                storePchar[s[i] - 'a']++;
+                i++; j++;
             }
-            j++;
         }
         return res;
     }
